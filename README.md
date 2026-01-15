@@ -38,8 +38,6 @@ docker部署平台推荐：leaflow，zeabur
 
 [官方的环境变量列表](https://github.com/huangxd-/danmu_api/tree/main#%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E5%88%97%E8%A1%A8)
 
-![PixPin_2026-01-15_09-56-26|690x431](upload://j5ayyOMwD4P8Ei7ABW1sgkxlODA.jpeg)
-
 
 
 ## 以下为推荐设置or值得关注的设置：
