@@ -7,8 +7,11 @@
 
 > [!NOTE]
 > 为了不影响观看体验，没有添加引用。
+>
 > 不一定按照我推荐的设置，按你的喜好设置即好。
+> 
 > 弹幕API本篇文章只是帮助你尽快上手logvar弹幕API。
+> 
 > 本篇文章有时效性，建议访问[官方文档](https://github.com/huangxd-/danmu_api)或[LogVar弹幕API通知频道](https://t.me/logvar_danmu_channel)获取最新信息，如果有什么问题建议去[logvar弹幕互助群](https://t.me/logvar_danmu_group)交流
 
 ## 描述
