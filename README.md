@@ -24,7 +24,7 @@
 
  **danmu_api**支持  forward/senplayer/hills/小幻/yamby/eplayerx/afusekt/uz影视/dscloud/lenna/danmaku-anywhere/omnibox/ChaiChaiEmbyTV/moontv/capyplayer/kerkerker/[飞牛影视OS](https://club.fnnas.com/forum.php?mod=viewthread&tid=19989&highlight=) 等支持**弹幕API的播放器** ，可搭配[danmaku-anywhere](https://github.com/Mr-Quin/danmaku-anywhere) 实现格外支持
 
-**使用弹幕API**：以`hills`为例,**设置-弹幕-弹幕API基础地址-添加弹幕API URL** 例如：https://danmu.8081666.xyz/leaflow
+**使用弹幕API**：以`hills`为例,**设置-弹幕-弹幕API基础地址-添加弹幕API URL** 
 
  **Forward**推荐直接使用插件，如果非要使用，则可以配合 https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets.fwd 里的**danmu_api**插件使用
 
@@ -43,7 +43,7 @@ docker部署平台推荐：leaflow，zeabur
 ## 以下为推荐设置or值得关注的设置：
 ### 1.API配置：
 
-**TOKEN**  用于**调用API**，须在链接后填入**TOKEN**才可调用使用 **例如**：https://danmu.8081666.xyz/leaflow
+**TOKEN**  用于**调用API**，须在链接后填入**TOKEN**才可调用使用 
 
 **RATE\_LIMIT\_MAX\_REQUESTS**  限流配置：**同一IP**内1 分钟内最大请求次数，防止滥用限制IP
 
@@ -137,4 +137,4 @@ docker服务推荐配置Localcache，两种存储模式会保存缓冲信息
 
 ## 别忘了点击重新部署
 
-#### 一般播放器设置自定义弹幕API 例如：https://danmu.8081666.xyz/leaflow 即可
+#### 一般播放器设置自定义弹幕API 例如：https://danmu.8081666.xyz/token 即可
